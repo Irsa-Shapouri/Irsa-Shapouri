@@ -106,14 +106,9 @@
   <img src="https://komarev.com/ghpvc/?username=Irsa-Shapouri&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake" />
-</div>
-
   <br>
-    <a href="https://github.com/DNXEMPIRE-1">
-     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
+    <a href="https://github.com/Irsa-Shapouri">
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Irsa-Shapouri/Irsa-Shapouri/output/github-snake-darkBlue.svg" />
  
 </div>
 
@@ -124,8 +119,8 @@
   <a href="https://leetcode.com/irsa-shapouri">
     <img align="center" src="https://leetcard.jacoblin.cool/irsa-shapouri?ext=heatmap" height="300em" alt="LeetCode Stats"/>
   </a>
-</div
-  
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left"> Git Stats📊 </h2>
@@ -147,4 +142,3 @@
     </td>
   </tr>
 </table>
-
