@@ -5,6 +5,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+
+<div align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+    <h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=This+is..;..my+GitHub..;" alt="Typing SVG"/>     
+    </h1>
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> &nbsp;<span> My Technical Skills</span>
 
 <div align="center" style="display: grid; justify-content: center; gap: 40px;">
@@ -98,3 +110,41 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake" />
 </div>
+
+  <br>
+    <a href="https://github.com/DNXEMPIRE-1">
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
+ 
+</div>
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## :zap: My LeetCode Stats 📊
+<div align="center">
+  <a href="https://leetcode.com/irsa-shapouri">
+    <img align="center" src="https://leetcard.jacoblin.cool/irsa-shapouri?ext=heatmap" height="300em" alt="LeetCode Stats"/>
+  </a>
+</div
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left"> Git Stats📊 </h2>
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khushiiagrawal&count_private=true&theme=algolia&include_all_commits=true&border_radius=10"/>
+    </td>
+    <td align="center">
+      <img width="400" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=khushiiagrawal&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&border_radius=10&cache_seconds=600"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=khushiiagrawal&langs_count=6&layout=compact&theme=algolia&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=300&hide=html"/>
+    </td>
+    <td align="center">
+      <img width="400" src="https://github-contributor-stats.vercel.app/api?username=khushiiagrawal&limit=5&border_radius=10&size_weight=0.5&count_weight=0.5&layout=compact&theme=algolia&combine_all_yearly_contributions=true"/>
+    </td>
+  </tr>
+</table>
+
