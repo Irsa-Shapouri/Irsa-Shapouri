@@ -116,3 +116,14 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Irsa-Shapouri&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</div>
+
+  <br>
+    <a href="https://github.com/DNXEMPIRE-1">
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
+ 
+</div>
