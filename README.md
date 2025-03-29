@@ -72,30 +72,24 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **GitHub Analytics & LeetCode Stats**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irsa-shapouri&theme=github_dark" width="780"/>
-</div>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **GitHub Analytics**
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=irsa-shapouri&count_private=true&theme=github_dark&include_all_commits=true&border_radius=10&hide_border=true"/>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=irsa-shapouri&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&border_radius=10&cache_seconds=600&hide_border=true"/>
-</div>
+   <img src="https://github-readme-stats.vercel.app/api?username=irsa-shapouri&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Irsa's github stats"/>
 
-<div align="center" style="margin: 20px 0;">
+  <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=irsa-shapouri&count_private=true&theme=github_dark&include_all_commits=true&border_radius=10&hide_border=true"/>
+
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsa-shapouri&langs_count=6&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=300&hide=html&hide_border=true"/>
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://leetcode.com/irsa-shapouri">
-    <img align="center" src="https://leetcard.jacoblin.cool/irsa-shapouri?ext=heatmap&theme=dark" height="300em" alt="LeetCode Stats"/>
-  </a>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=irsa-shapouri&color=38b6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile view counter">
+<div align="center">
+  <br><br><img src="https://github-profile-trophy.vercel.app/?username=irsa-shapouri&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
 </div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=irsa-shapouri&theme=react-dark&hide_border=true&area=true&point=38b6ff&line=38b6ff&color=ffffff" />
@@ -104,6 +98,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution sts" width="%" /></br></br>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## :zap: My LeetCode Stats 📊
+<div align="center">
+  <a href="https://leetcode.com/Amulya_89-curious">
+    <img align="center" src="https://leetcard.jacoblin.cool/irsa-shapouri?ext=heatmap" height="300em" alt="LeetCode Stats"/>
+  </a>
+</div
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--SNAKE-->
 
