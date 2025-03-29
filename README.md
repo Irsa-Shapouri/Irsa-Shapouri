@@ -77,10 +77,11 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
    <img src="https://github-readme-stats.vercel.app/api?username=irsa-shapouri&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Irsa's github stats"/>
 
-  <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=irsa-shapouri&count_private=true&theme=github_dark&include_all_commits=true&border_radius=10&hide_border=true"/>
-
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsa-shapouri&langs_count=6&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=300&hide=html&hide_border=true"/>
 </div>
+
+[![𝚐𝚒𝚝𝚑𝚞𝚋 streak](https://github-readme-streak-stats.herokuapp.com/?user=irsa-shapouri&theme=algolia&card_width=1000)](https://github.com/DatlaRakeshVarma) </br></br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
