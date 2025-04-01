@@ -126,7 +126,7 @@
 
 ## <span style="background: linear-gradient(45deg, #00BC91, #FF5252, #FFC107, #9333EA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">:zap: My LeetCode Stats 📊</span>
 <div align="center">
-  <a href="https://leetcode.com/Amulya_89-curious">
+  <a href="https://leetcode.com/irsa-shapouri/">
     <img align="center" src="https://leetcard.jacoblin.cool/irsa-shapouri?ext=heatmap&theme=dark&hide_border=true&title_color=00BC91&text_color=ffffff&icon_color=FF5252" height="300em" alt="LeetCode Stats"/>
   </a>
 </div>
