@@ -94,24 +94,7 @@
   </div>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> <span style="background: linear-gradient(45deg, #00BC91, #FF5252, #FFC107, #9333EA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">GitHub Analytics</span>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-   <img src="https://github-readme-stats.vercel.app/api?username=irsa-shapouri&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00BC91&icon_color=FF5252&text_color=ffffff" alt="Irsa's github stats"/>
-
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsa-shapouri&langs_count=6&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=300&hide=html&hide_border=true&title_color=FFC107&text_color=ffffff"/>
-</div>
-
-[![𝚐𝚒𝚝𝚑𝚞𝚋 streak](https://github-readme-streak-stats.herokuapp.com/?user=irsa-shapouri&theme=algolia&card_width=1000&hide_border=true&background=0D1117&ring=00BC91&fire=FF5252&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFC107&sideLabels=9333EA&dates=ffffff)](https://github.com/DatlaRakeshVarma) </br></br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <br><br><img src="https://github-profile-trophy.vercel.app/?username=irsa-shapouri&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" align="middle"  /> <br>
-</div>
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
